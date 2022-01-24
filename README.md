@@ -6,6 +6,8 @@ Download: https://github.com/Steveice10/FBI/releases
 
 Requires [devkitARM](http://sourceforge.net/projects/devkitpro/files/devkitARM/), along with 3ds-curl, 3ds-zlib, and 3ds-jansson from the devkitPro pacman repository, to build.
 
+[Build Tutorial](https://gbatemp.net/threads/help-falied-to-compile-fbi-with-devkitpro-3-0-3.514546/post-8211852) 
+
 # Features
 
 * Browse and modify the SD card, TWL photos, TWL sounds, save data, and ext save data.
